@@ -1,0 +1,30 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.boxlogin {
+  background-color: aqua;
+  height: 85%;
+  width: 75%;
+}
+
+#navigasi {
+  padding-top: 30px;
+}
+
+.gambar {
+  padding: 50px;
+}
+
+body {
+  background-color: #d9d9d9;
+}
+
+.footer {
+  background-color: #ffd571;
+}
+
+.rekom {
+  padding: 13px;
+}
